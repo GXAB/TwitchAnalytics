@@ -25,6 +25,7 @@ PUBG tripled its views between 8h and 20h. This is by far the most significant r
 
 Most games seem to lose roughly half of its views. LOL seems to have the least amount of cyclicality for that day. Perhaps this is due to the international appeal of this game, with it especially popular in Asia.
 
+
 Oct 18th
 
 Still collecting data. Looking up Seasonal ARIMA models to see if they can be applied here.
